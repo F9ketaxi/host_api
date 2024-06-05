@@ -24,9 +24,20 @@
     },
     {
       "ally_name": "FTA",
-
-
+      "tribes": [
+        {
+          "tribe_name": "Black Fellas",
+          "servers": ["2200", "2210"]
+        },
+        {
+          "tribe_name": "NFF",
+          "servers": ["2220", "2230"]
+        },
+        {
+          "tribe_name": "Gang Shit",
+          "servers": ["2240", "2250"]
+        }
+      ]
     }
-
   ]
 }
