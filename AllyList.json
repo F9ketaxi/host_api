@@ -1,1 +1,18 @@
+{
+  "allies": [
+    {
+      "ally_name": "Gang gang ally",
+      "tribes": [
+        "Gang gang",
+        "Be"
+      ]
+    },
+    {
+      "ally_name": "Good coms ally",
+      "tribes": [
+        "Mafia"
+      ]
+    }
+  ]
+}
 
