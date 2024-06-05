@@ -44,8 +44,8 @@
       "ally_name": "Gang Shit",
       "tribes": [
         {
-          "tribe_name": "Gang Shit",
-          "servers": ["2240", "2250"]
+          "tribe_name": "",
+          "servers": []
         }
       ]
     }
