@@ -5,11 +5,11 @@
       "tribes": [
         {
           "tribe_name": "Gang gang",
-          "servers": ["2149", "2150"]
+          "servers": ["2149", "2133"]
         },
         {
           "tribe_name": "Be",
-          "servers": ["2345"]
+          "servers": ["2345", "2378"]
         }
       ]
     },
@@ -17,8 +17,8 @@
       "ally_name": "Good coms ally",
       "tribes": [
         {
-          "tribe_name": "Mafia",
-          "servers": []
+          "tribe_name": "Good Coms",
+          "servers": ["2150", "2316", "2112"]
         }
       ]
     }
