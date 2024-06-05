@@ -3,16 +3,24 @@
     {
       "ally_name": "Gang gang ally",
       "tribes": [
-        "Gang gang",
-        "Be"
+        {
+          "tribe_name": "Gang gang",
+          "servers": ["2149", "2150"]
+        },
+        {
+          "tribe_name": "Be",
+          "servers": ["2345"]
+        }
       ]
     },
     {
       "ally_name": "Good coms ally",
       "tribes": [
-        "Mafia"
+        {
+          "tribe_name": "Mafia",
+          "servers": []
+        }
       ]
     }
   ]
 }
-
