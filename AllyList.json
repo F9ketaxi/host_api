@@ -19,6 +19,30 @@
         {
           "tribe_name": "Good Coms",
           "servers": ["2150", "2316", "2112"]
+        },
+        {
+          "tribe_name": "ECLIPSE",
+          "servers": [""]
+        },
+        {
+          "tribe_name": "Space Cowboys",
+          "servers": [""]
+        },
+        {
+          "tribe_name": "FTG",
+          "servers": [""]
+        },
+        {
+          "tribe_name": "VOID",
+          "servers": [""]
+        },
+        {
+          "tribe_name": "CHEM B",
+          "servers": [""]
+        },
+        {
+          "tribe_name": "NLDX",
+          "servers": [""]
         }
       ]
     },
